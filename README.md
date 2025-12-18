@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/anas-ib](https://www.github.com/anas-ib)
 
-- 📝 I regularly write articles on [Coming soon — documenting my Java & backend learning journey](Coming soon — documenting my Java & backend learning journey)
+- 📝 My articles [Coming soon — documenting my Java & backend learning journey]
 
 - 💬 Ask me about **Core Java, OOP, Collections, SQL, REST APIs, Git**
 
