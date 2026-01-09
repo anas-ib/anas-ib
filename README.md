@@ -1,40 +1,53 @@
-<h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">More than just a title--let's dive deeper.</h3>
+<!-- ============================= -->
+<!-- 💡 Typing Animation Banner -->
+<!-- ============================== -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Anas!;Software+Developer;Based+in+Kerala%2C+India" alt="Typing SVG"/>
+    </a>
+</div>
+<br/>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-ib" alt="anas-ib" /></a> </p> -->
+<details open>
+<summary><b>Skills & Tools</b></summary>
+<br>
 
-<p align="left"> <a href="https://twitter.com/ibrxhimanas" target="blank"><img src="https://img.shields.io/twitter/follow/ibrxhimanas?logo=twitter&style=for-the-badge" alt="ibrxhimanas" /></a> </p>
+<!-- Languages -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 
-- 🔭 I’m currently working on **React Portfolio & UI Projects**
+<!-- Frameworks -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-- 🌱 I’m currently learning **Spring Boot, REST APIs, React basics, Git, SQL optimization**
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-- 👯 I’m looking to collaborate on **Java / Backend / Open-source projects**
+<!-- Tools & Cloud -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 
-- 🤝 I’m looking for help with **Improving system design & backend best practices**
+</details>
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/anas-ib](https://www.github.com/anas-ib)
+<!-- ════════════ 📈 GITHUB STATS ════════════ -->
+<!-- <details closed>
+<summary><b>⚡ My GitHub Performance</b></summary>
+<br>
 
-- 📝 My articles [Coming soon — documenting my Java & backend learning journey]
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anas-ib&show_icons=true&theme=gotham" />
 
-- 💬 Ask me about **Core Java, OOP, Collections, SQL, REST APIs, Git**
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anas-ib&layout=compact&theme=gotham" />
+</details> -->
 
-- 📫 How to reach me **ibrxhimanas@gmail.com**
+<!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
+### Random Dev Quote-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-- ⚡ Fun fact **Consistency beats talent every time.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ibrxhimanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrxhimanas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahimanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimanas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/32062345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32062345" height="30" width="40" /></a>
-<a href="https://kaggle.com/ibrahimanas999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibrahimanas999" height="30" width="40" /></a>
-<a href="https://instagram.com/anas_ibrxhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_ibrxhim" height="30" width="40" /></a>
-<a href="https://medium.com/@anasakd924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anasakd924" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anasakd924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anasakd924" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anas_ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas_ibrahim" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anas-ib&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-ib&show_icons=true&locale=en&layout=compact" alt="anas-ib" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-ib&show_icons=true&locale=en" alt="anas-ib" /></p>
+<!-- ════════════ © ANAS ════════════ -->
