@@ -54,7 +54,7 @@
 
 
 <!-- ════════════ 📈 GITHUB STATS ════════════ -->
-<details closed>
+<!-- <details closed>
 <summary><b>⚡ My GitHub Performance</b></summary>
 <br>
 
@@ -62,7 +62,7 @@
 <br/>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anas-ib&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
-</details>
+</details> -->
 
 <!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
 ### Random Dev Quote-
