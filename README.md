@@ -65,15 +65,16 @@
 
 
 <!-- ════════════ 📈 GITHUB STATS ════════════ -->
-<!-- <details closed>
-<summary><b>⚡ My GitHub Performance</b></summary>
-<br>
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anas-ib&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" width="450" />
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-ib&show_icons=true&theme=gotham" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ib&layout=compact&theme=gotham" height="170" />
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anas-ib&layout=compact&hide_border=false&title_color=61dafb&text_color=ffffff&bg_color=0d1117" width="450" />
-</details> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anas-ib&theme=gotham" />
+</p>
 
 <!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
 ### Random Dev Quote-
