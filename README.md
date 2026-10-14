@@ -64,24 +64,5 @@
 </details>
 
 
-<!-- ════════════ 📈 GITHUB STATS ════════════ -->
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-ib&show_icons=true&theme=gotham" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-ib&layout=compact&theme=gotham" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anas-ib&theme=gotham" />
-</p>
-
-<!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
-### Random Dev Quote-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anas-ib&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<!-- ════════════ © ANAS ════════════ -->
+ ════════════ © ANAS ════════════
